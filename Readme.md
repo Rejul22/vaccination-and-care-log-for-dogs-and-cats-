@@ -114,4 +114,3 @@ I am a dog owner and beginner programmer. I created this project based on my exp
 
 This project is a simple way to practise Python while helping organize pet information. I hope it encourages pet owners and veterinary clinics to keep useful records and provide pets with care on time.
 # vaccination-and-care-log-for-dogs-and-cats-
-# vaccination-and-care-log-for-dogs-and-cats-
