@@ -1,3 +1,5 @@
+# Project Statement
+
 ## Problem Statement
 Pet details, vaccination dates, appointment choices, and medical notes can be kept in different places or
 forgotten. This makes it harder to review a pet’s basic care history. The project addresses this by storing a pet
